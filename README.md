@@ -162,4 +162,4 @@ Its safeguards reduce the risk of accidental changes but should not be treated a
 
 ## License
 
-No license has been specified yet. Add a license file if you intend to distribute or permit reuse of this project.
+MIT license.
